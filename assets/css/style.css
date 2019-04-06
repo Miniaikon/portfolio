@@ -32,7 +32,7 @@ body,p,sub{
 	font-family: 'Quicksand', sans-serif;
 }
 .header-site{
-	height: 100vh;
+	height: auto;
 }
 .bottom{
 	display: table-cell;
