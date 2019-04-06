@@ -12,13 +12,24 @@ h3,
 h4,
 h5,
 h6,
-.page-title,
+.page-title{
+	font-family: 'Exo 2', sans-serif;
+}
 .page-subtitle
 {
-	font-family: 'Julius Sans One', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+}
+a{
+	color: #28a745 !important;
+}
+a:hover{
+	color: #22923c;
+}
+sub a{
+	font-size: 12px !important;
 }
 body,p,sub{
-	font-family: 'Khula', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 }
 .header-site{
 	height: 100vh;
