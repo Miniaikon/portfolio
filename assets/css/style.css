@@ -48,7 +48,6 @@ body,p,sub{
 	width: 100%;
 	left: 0;
 	right: 0;
-	box-sizing: border-box;
 	margin-left: 0 !important;
 }
 .border-box{
