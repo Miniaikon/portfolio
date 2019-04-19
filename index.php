@@ -26,8 +26,8 @@
 		<div class="col-md-4 dark-side-1 header-center">
 			<img src="assets/img/face.jpeg" alt="" width="250px" class="img-fluid rounded-circle mx-auto d-block align-middle">
 		</div>
-		<div class="col-md-8 dark-main-1 padding-header border-box">
-			<div class="col-md-12">
+		<div class="col-md-8 dark-main-1 padding-header border-box ">
+			<div class="col-md-12  h-50 d-flex">
 				<span class="justify-content-center align-self-center">
 					<h1 class="page-title">
 						Ysmael <br>
@@ -41,19 +41,19 @@
 					<div class="col-md-12">
 						<hr>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 mt-3 data-contact">
 						<b>Location</b><br>
 						<sub>San Felix, Venezuela</sub>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 mt-3 data-contact">
 						<b>Teléfono</b><br>
 						<sub>+58 (414) 8836-322</sub>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 mt-3 data-contact">
 						<b>Web</b><br>
 						<sub><a href="https://www.miniaikon.com/" class="btn btn-link">Miniaikon.com</a></sub>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 mt-3 data-contact">
 						<b>Email</b><br>
 						<sub><a href="mailto:info@miniaikon.com">info@miniaikon.com</a></sub>
 					</div>
@@ -85,7 +85,7 @@
 					</p>
 
 				</div>
-				<div class="col-md-7 mt-md-4">
+				<div class="col-md-7 mt-md-4 d-none d-sm-block">
 					<p class="text-justify">Empresa dedicada a brindar soluciones y desarrollo en distintas áreas de la tecnologia, desde software hasta hardware. Mi funcion es desarrollar desde páginas hasta aplicaciones Web bajo la utilización del <span class="text-success">FrameWork Laravel</span> operando bajo el patron de arquitectura de software <span class="text-success">MVC (Modelo Vista Controlador)</span>.</p>
 				</div>
 				<div class="col-md-5 mt-md-4 border-left border-success">
@@ -98,7 +98,7 @@
 					</p>
 
 				</div>
-				<div class="col-md-7 mt-md-4">
+				<div class="col-md-7 mt-md-4 d-none d-sm-block">
 					<p class="text-justify">Empresa dedicada a brindar servicios de marketing y desarrollo de paginas web en <span class="text-success">WordPress</span>. Mi labor fue la de desarrollar sitios web bajo la utilizacion del CMS <span class="text-success">WordPress</span> cómo herramienta principal, también dentro de mis responsabilidades estaba el dar mejoras a paginas ya existentes.</p>
 				</div>
 				<div class="col-md-5 mt-md-4 border-left border-success">
@@ -111,7 +111,7 @@
 					</p>
 
 				</div>
-				<div class="col-md-7 mt-md-4">
+				<div class="col-md-7 mt-md-4 d-none d-sm-block">
 					<p class="text-justify">Empresa de marketing general que brindas servicios de desarrollo Web basados en el CMS <span class="text-success">WordPress</span>. Mi funcion consistia en desarrollar sitios web en <span class="text-success">WordPress</span> para pequeñas empresas y negocios que deseaban extender su alcance, otra de mis funciones era el de crear <span class="text-succes">Landing Pages</span> publicitarias para presentar una promoción.</p>
 				</div>
 			</div>
@@ -132,7 +132,7 @@
 					</p>
 
 				</div>
-				<div class="col-md-7 mt-md-4">
+				<div class="col-md-7 mt-md-4 d-none d-sm-block">
 					<p class="text-justify">El Instituto Universitario Politécnico "Santiago Mariño". Fue donde tuve mi carrera universitaria en el área de Ingeniería de Sistemas. Por 5 años de estudios dentro de esta institución donde empecé a ejercer cómo Programador Web y ya luego pude completar el proceso requerido y graduarme cómo <span class="text-success">Ingeniero de Sistemas</span>.</p>
 				</div>
 			</div>
@@ -146,10 +146,10 @@
 			<div class="row">
 				<div class="col-md-6 mt-md-4">
 					<div class="row">
-						<div class="col-md-1">
+						<div class="col-md-1 col-2">
 							<h4><span class="text-success">01</span> </h4>
 						</div>
-						<div class="col-md-11">
+						<div class="col-md-11 col-10">
 							<div class="title">
 								<h4>HTML5</h4>
 								<p>Puedo manejar muy bien el lenguaje para estructurar sitios web de manera correcta y organizada, manejando las etiquetas con sus identificadores y clases correctamente, incluyendo los meta para SEO. <span class="text-success">5 Años de Experiencia</span></p>
@@ -159,10 +159,10 @@
 				</div>
 				<div class="col-md-6 mt-md-4">
 					<div class="row">
-						<div class="col-md-1">
+						<div class="col-md-1 col-2">
 							<h4><span class="text-success">02</span> </h4>
 						</div>
-						<div class="col-md-11">
+						<div class="col-md-11 col-10">
 							<div class="title">
 								<h4>CSS</h4>
 								<p>El lenguaje de estilos en cascada es con lo que me gusta jugar, a pesar de no compensar con buenas habilidades de diseño puede realizar una plantilla basada en un mockup y hacer que quede identica a la idea original. <span class="text-success">5 Años de Experiencia</span></p>
@@ -172,10 +172,10 @@
 				</div>
 				<div class="col-md-6 mt-md-4">
 					<div class="row">
-						<div class="col-md-1">
+						<div class="col-md-1 col-2">
 							<h4><span class="text-success">03</span> </h4>
 						</div>
-						<div class="col-md-11">
+						<div class="col-md-11 col-10">
 							<div class="title">
 								<h4>JAVASCRIPT</h4>
 								<p>Un lenguaje de programación con el cual estoy en proceso de especialización, hasta ahora lo manejo para resolver problemas del DOM en CMS y para programar funcionalidades con algoritmos complejos, el uso más tipico es con la libreria Vue.js. <span class="text-success">3 Años y medio de Experiencia</span></p>
@@ -185,10 +185,10 @@
 				</div>
 				<div class="col-md-6 mt-md-4">
 					<div class="row">
-						<div class="col-md-1">
+						<div class="col-md-1 col-2">
 							<h4><span class="text-success">04</span> </h4>
 						</div>
-						<div class="col-md-11">
+						<div class="col-md-11 col-10">
 							<div class="title">
 								<h4>PHP</h4>
 								<p>Lenguaje con el que me inicie en el mundo de las Web App y que actualmente manejo muy bien, en especial con la utilización de Laravel con que el he realizado desde sistemas de casas de cambio, hasta tiendas virtuales. <span class="text-success">3 Años y medio de Experiencia</span></p>
@@ -198,10 +198,10 @@
 				</div>
 				<div class="col-md-6 mt-md-4">
 					<div class="row">
-						<div class="col-md-1">
+						<div class="col-md-1 col-2">
 							<h4><span class="text-success">05</span> </h4>
 						</div>
-						<div class="col-md-11">
+						<div class="col-md-11 col-10">
 							<div class="title">
 								<h4>LARAVEL</h4>
 								<p>Es el framework en el que actualmente más me especializo, pudiendo realizar lo que sea gracias a la forma fluida que tengo de trabajar con esta tecnologia debido a la experiencia acumulada con los años. <span class="text-success">2 Años de Experiencia</span></p>
@@ -211,10 +211,10 @@
 				</div>
 				<div class="col-md-6 mt-md-4">
 					<div class="row">
-						<div class="col-md-1">
+						<div class="col-md-1 col-2">
 							<h4><span class="text-success">06</span> </h4>
 						</div>
-						<div class="col-md-11">
+						<div class="col-md-11 col-10">
 							<div class="title">
 								<h4>VUEJS</h4>
 								<p>Framework para el Front-End que manejo en conjunto con Laravel para realizar funcionalidades más fluidas y rápidas para el cliente mezclando tecnologias de peticiones asincronas para mejor experiencia de usuario. <span class="text-success">1 Año de Experiencia</span></p>
@@ -538,7 +538,7 @@
 		<div class="col-md-8 col-12 dark-main-1 padding">
 			<div class="row">
 				<!-- Profiles -->
-				<div class="col-md-4 col-12 col mt-md-4">
+				<div class="col-md-4 mt-md-4 col-4">
 					<div class="row">
 						<div class="col-md-12">
 							<a href="https://github.com/Miniaikon" target="_blank" class="title" style="color: white; text-decoration: none;">
@@ -547,15 +547,15 @@
 									<span style="color: white;">
 										 GitHub
 									</span>
-								</h4>
-								<p style="color: white;">Mis repositorios publicos</p>
+								</h4><!-- 
+								<p style="color: white;">Mis repositorios publicos</p> -->
 							</a>
 						</div>
 					</div>
 				</div>
 				<!-- End Profiles -->
 				<!-- Profiles -->
-				<div class="col-md-4 col-12 mt-md-4">
+				<div class="col-md-4 mt-md-4 col-4">
 					<div class="row">
 						<div class="col-md-12">
 							<a href="https://www.linkedin.com/in/ysmael-clemente-25a6a011b/" target="_blank" class="title" style="color: white; text-decoration: none;">
@@ -564,15 +564,15 @@
 									<span  style="color: white;">
 										LinkedIn
 									</span>
-								</h4>
-								<p style="color: white;">Perfil profesional en la red</p>
+								</h4><!-- 
+								<p style="color: white;">Perfil profesional en la red</p> -->
 							</a>
 						</div>
 					</div>
 				</div>
 				<!-- End Profiles -->
 				<!-- Profiles -->
-				<div class="col-md-4 mt-md-4">
+				<div class="col-md-4 mt-md-4 col-4">
 					<div class="row">
 						<div class="col-md-12">
 							<a href="https://www.facebook.com/Ysmael1366/" target="_blank" class="title" style="color: white; text-decoration: none;">
@@ -581,8 +581,8 @@
 									<span style="color: white;">
 										 Facebook
 									</span>
-								</h4>
-								<p style="color: white;">Perfil social</p>
+								</h4><!-- 
+								<p style="color: white;">Perfil social</p> -->
 							</a>
 						</div>
 					</div>
