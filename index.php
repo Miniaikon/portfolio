@@ -43,15 +43,15 @@
 					</div>
 					<div class="col-md-3 col-6 mt-3 data-contact">
 						<b>Location</b><br>
-						<sub>San Felix, Venezuela</sub>
+						<sub>Medellin, Colombia</sub>
 					</div>
 					<div class="col-md-3 col-6 mt-3 data-contact">
 						<b>Teléfono</b><br>
-						<sub>+58 (414) 8836-322</sub>
+						<sub>+57 (312) 7042-426</sub>
 					</div>
-					<div class="col-md-3 col-6 mt-3 data-contact">
-						<b>Web</b><br>
-						<sub><a href="https://www.miniaikon.com/" class="btn btn-link">Miniaikon.com</a></sub>
+					<div class="col-md-3">
+						<b>WhatsApp</b><br>
+						<sub>+58 (414) 8836-322</sub>
 					</div>
 					<div class="col-md-3 col-6 mt-3 data-contact">
 						<b>Email</b><br>
