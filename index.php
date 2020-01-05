@@ -42,18 +42,22 @@
 						<hr>
 					</div>
 					<div class="col-md-3 col-6 mt-3 data-contact">
+						<i class="fas fa-map-marker-alt"></i> 
 						<b>Location</b><br>
 						<sub>Medellin, Colombia</sub>
 					</div>
 					<div class="col-md-3 col-6 mt-3 data-contact">
+						<i class="fas fa-mobile"></i>
 						<b>Teléfono</b><br>
 						<sub>+57 (312) 7042-426</sub>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 mt-3 data-contact">
+						<i class="fab fa-whatsapp"></i>
 						<b>WhatsApp</b><br>
 						<sub>+58 (414) 8836-322</sub>
 					</div>
 					<div class="col-md-3 col-6 mt-3 data-contact">
+						<i class="fas fa-at"></i>
 						<b>Email</b><br>
 						<sub><a href="mailto:info@miniaikon.com">info@miniaikon.com</a></sub>
 					</div>
